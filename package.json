@@ -2,7 +2,7 @@
 	"name": "hex2rgb",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://nameaccount.github.io/namerepository",
+	"homepage": "https://tatiana-nikonova.github.io/hex2rgb/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.4",
 		"@testing-library/react": "^13.2.0",
