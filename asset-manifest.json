@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hex2rgb/static/css/main.fe6f1ce9.css",
+    "main.js": "/hex2rgb/static/js/main.ca378cb4.js",
+    "static/js/787.ce150e42.chunk.js": "/hex2rgb/static/js/787.ce150e42.chunk.js",
+    "index.html": "/hex2rgb/index.html",
+    "main.fe6f1ce9.css.map": "/hex2rgb/static/css/main.fe6f1ce9.css.map",
+    "main.ca378cb4.js.map": "/hex2rgb/static/js/main.ca378cb4.js.map",
+    "787.ce150e42.chunk.js.map": "/hex2rgb/static/js/787.ce150e42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe6f1ce9.css",
+    "static/js/main.ca378cb4.js"
+  ]
+}
